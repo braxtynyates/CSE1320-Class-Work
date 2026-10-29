@@ -1,4 +1,4 @@
-#ifdef LMS_pFun_h
+#ifndef LMS_pFun_h
 #define LMS_pFun_h
 //define any structs in my header file 
     struct Book
